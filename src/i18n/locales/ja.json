@@ -1,0 +1,86 @@
+{
+  "common": {
+    "restart": "リスタート",
+    "score": "スコア",
+    "bestScore": "ベストスコア",
+    "playAgain": "もう一度プレイ",
+    "shareWithFriends": "友達とシェア",
+    "gameOver": "ゲームオーバー！",
+    "awesome": "すごい！",
+    "close": "閉じる"
+  },
+  "header": {
+    "home": "ホーム",
+    "2048": "2048",
+    "drawCircle": "円を描く"
+  },
+  "home": {
+    "title": "ウェブゲームポータル",
+    "subtitle": "楽しいウェブゲームを見つけて、すぐにプレイ",
+    "games": {
+      "2048": {
+        "title": "2048",
+        "description": "クラシックな数字パズルゲーム。タイルをマージして2048を作ろう！"
+      },
+      "drawCircle": {
+        "title": "円を描く",
+        "description": "描画スキルをテスト！完璧な円を描いてみよう。"
+      }
+    }
+  },
+  "2048": {
+    "title": "2048 ゲーム",
+    "description": "同じ数字のタイルをマージして2048を作ろう！",
+    "rules": {
+      "title": "ゲームルール",
+      "objective": {
+        "title": "目標",
+        "text": "グリッド上で数字タイルをスライドさせ、2048のタイルを作成しよう！"
+      },
+      "howToPlay": {
+        "title": "遊び方",
+        "controls": "コントロール",
+        "up": "上",
+        "down": "下",
+        "left": "左",
+        "right": "右"
+      },
+      "scoring": {
+        "title": "スコアリング",
+        "text": "タイルをマージしてポイントを獲得"
+      },
+      "tips": {
+        "title": "ヒント",
+        "items": [
+          "大きな数字は角に置く",
+          "小さな数字を散らさない",
+          "先を見越して移動を計画する"
+        ]
+      }
+    }
+  },
+  "drawCircle": {
+    "title": "円を描くゲーム",
+    "description": "マウスで完璧な円を描いてみよう",
+    "currentScore": "現在のスコア",
+    "instructions": {
+      "title": "説明",
+      "items": [
+        "黒いキャンバス上でマウスを使って円を描く",
+        "グレーの基準円を参考にする",
+        "完璧な円に近いほど、高いスコアを獲得",
+        "90%以上のスコアで作品をシェア可能",
+        "自己ベストに挑戦しよう！"
+      ]
+    },
+    "share": {
+      "title": "作品をシェア",
+      "congratulations": "素晴らしい円を描きました！精度{{score}}%を達成！",
+      "viewShared": "シェアされた円を見る",
+      "tryYourself": "自分も描いてみる"
+    }
+  },
+  "footer": {
+    "copyright": "© {{year}} Web Game. All rights reserved."
+  }
+}

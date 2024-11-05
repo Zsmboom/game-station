@@ -1,0 +1,86 @@
+{
+  "common": {
+    "restart": "Restart",
+    "score": "Score",
+    "bestScore": "Best Score",
+    "playAgain": "Play Again",
+    "shareWithFriends": "Share with Friends",
+    "gameOver": "Game Over!",
+    "awesome": "Awesome!",
+    "close": "Close"
+  },
+  "header": {
+    "home": "Home",
+    "2048": "2048",
+    "drawCircle": "Draw Circle"
+  },
+  "home": {
+    "title": "Web Game Portal",
+    "subtitle": "Discover fun web games to play instantly",
+    "games": {
+      "2048": {
+        "title": "2048",
+        "description": "Classic number puzzle game. Merge tiles to get 2048!"
+      },
+      "drawCircle": {
+        "title": "Draw Circle",
+        "description": "Test your drawing skills! Try to draw a perfect circle."
+      }
+    }
+  },
+  "2048": {
+    "title": "2048 Game",
+    "description": "Merge tiles with the same numbers to get 2048!",
+    "rules": {
+      "title": "Game Rules",
+      "objective": {
+        "title": "Objective",
+        "text": "Slide numbered tiles on the grid to combine them and create the 2048 tile!"
+      },
+      "howToPlay": {
+        "title": "How to Play",
+        "controls": "Controls",
+        "up": "Up",
+        "down": "Down",
+        "left": "Left",
+        "right": "Right"
+      },
+      "scoring": {
+        "title": "Scoring",
+        "text": "Score points by merging tiles"
+      },
+      "tips": {
+        "title": "Tips",
+        "items": [
+          "Keep large numbers in corners",
+          "Avoid scattering small numbers",
+          "Plan your moves ahead"
+        ]
+      }
+    }
+  },
+  "drawCircle": {
+    "title": "Draw Circle Game",
+    "description": "Try to draw a perfect circle with your mouse",
+    "currentScore": "Current Score",
+    "instructions": {
+      "title": "Instructions",
+      "items": [
+        "Draw a circle using your mouse on the black canvas",
+        "Follow the gray reference circle",
+        "The closer to a perfect circle, the higher your score",
+        "Share your masterpiece when you score above 90%",
+        "Challenge yourself to get the highest score!"
+      ]
+    },
+    "share": {
+      "title": "Share Your Circle",
+      "congratulations": "You drew an amazing circle with {{score}}% accuracy!",
+      "viewShared": "View Shared Circle",
+      "tryYourself": "Try Drawing One Yourself"
+    }
+  },
+  "footer": {
+    "copyright": "© {{year}} Web Game. All rights reserved."
+  }
+}

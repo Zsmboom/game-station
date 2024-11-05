@@ -1,0 +1,86 @@
+{
+  "common": {
+    "restart": "重新开始",
+    "score": "分数",
+    "bestScore": "最高分",
+    "playAgain": "再玩一次",
+    "shareWithFriends": "分享给好友",
+    "gameOver": "游戏结束！",
+    "awesome": "太棒了！",
+    "close": "关闭"
+  },
+  "header": {
+    "home": "首页",
+    "2048": "2048",
+    "drawCircle": "画圆游戏"
+  },
+  "home": {
+    "title": "网页游戏导航",
+    "subtitle": "发现好玩的网页游戏，随时开始你的游戏之旅",
+    "games": {
+      "2048": {
+        "title": "2048",
+        "description": "经典数字益智游戏，通过滑动合并相同数字，目标是得到2048。"
+      },
+      "drawCircle": {
+        "title": "画圆游戏",
+        "description": "测试你的手绘能力！尝试画出一个完美的圆形。"
+      }
+    }
+  },
+  "2048": {
+    "title": "2048 游戏",
+    "description": "通过滑动合并相同的数字来获得2048！",
+    "rules": {
+      "title": "游戏规则说明",
+      "objective": {
+        "title": "游戏目标",
+        "text": "在方格中滑动数字方块，通过合并相同数字来得到2048。"
+      },
+      "howToPlay": {
+        "title": "操作方法",
+        "controls": "键盘控制",
+        "up": "向上",
+        "down": "向下",
+        "left": "向左",
+        "right": "向右"
+      },
+      "scoring": {
+        "title": "得分规则",
+        "text": "每次合并都会获得相应分数"
+      },
+      "tips": {
+        "title": "小贴士",
+        "items": [
+          "尽量保持大数字在角落",
+          "避免小数字散布在棋盘各处",
+          "提前规划移动路线"
+        ]
+      }
+    }
+  },
+  "drawCircle": {
+    "title": "画圆游戏",
+    "description": "尝试用鼠标画一个完美的圆形",
+    "currentScore": "当前分数",
+    "instructions": {
+      "title": "游戏说明",
+      "items": [
+        "用鼠标在黑色画布上画一个圆形",
+        "参考灰色的标准圆形进行绘制",
+        "画得越接近标准圆形，得分越高",
+        "达到90分以上可以分享你的杰作",
+        "挑战自己，创造最高分！"
+      ]
+    },
+    "share": {
+      "title": "分享你的作品",
+      "congratulations": "你画出了一个完美的圆形，达到了 {{score}}% 的准确度！",
+      "viewShared": "查看分享的圆形",
+      "tryYourself": "我也要画一个"
+    }
+  },
+  "footer": {
+    "copyright": "© {{year}} Web Game. 保留所有权利。"
+  }
+}
